@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/bin/Debug/net7.0/Task17
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/bin/Debug/net7.0/Task17.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/bin/Debug/net7.0/Task17.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/bin/Debug/net7.0/Task17.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/bin/Debug/net7.0/Task17.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/Task17.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/Task17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/Task17.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/Task17.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/Task17.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/Task17.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/refint/Task17.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/Task17.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/Task17.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task17/obj/Debug/net7.0/ref/Task17.dll

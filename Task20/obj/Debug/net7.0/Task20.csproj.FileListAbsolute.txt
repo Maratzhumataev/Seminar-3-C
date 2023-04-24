@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/bin/Debug/net7.0/Task20
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/bin/Debug/net7.0/Task20.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/bin/Debug/net7.0/Task20.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/bin/Debug/net7.0/Task20.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/bin/Debug/net7.0/Task20.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/Task20.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/Task20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/Task20.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/Task20.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/Task20.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/Task20.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/refint/Task20.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/Task20.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/Task20.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task20/obj/Debug/net7.0/ref/Task20.dll

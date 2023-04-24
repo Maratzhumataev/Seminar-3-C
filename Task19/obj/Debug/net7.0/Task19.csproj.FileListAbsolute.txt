@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/Task19.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/Task19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/Task19.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/Task19.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/Task19.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/bin/Debug/net7.0/Task19
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/bin/Debug/net7.0/Task19.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/bin/Debug/net7.0/Task19.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/bin/Debug/net7.0/Task19.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/bin/Debug/net7.0/Task19.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/Task19.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/refint/Task19.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/Task19.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/Task19.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task19/obj/Debug/net7.0/ref/Task19.dll

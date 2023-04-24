@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/bin/Debug/net7.0/Task22
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/bin/Debug/net7.0/Task22.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/bin/Debug/net7.0/Task22.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/bin/Debug/net7.0/Task22.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/bin/Debug/net7.0/Task22.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/Task22.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/Task22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/Task22.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/Task22.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/Task22.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/Task22.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/refint/Task22.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/Task22.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/Task22.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 3  С#/Task22/obj/Debug/net7.0/ref/Task22.dll
